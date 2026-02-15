@@ -22,8 +22,13 @@
       }
     }
   },
-  "skills": [
-    "skills/image-gen",
-    "skills/video-gen"
+  "repository": "https://aeromechanic000/volcengine-skills",
+  "license": "MIT",
+  "keywords": [
+    "volcengine",
+    "image",
+    "video",
+    "seedream",
+    "seedance"
   ]
 }
