@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "volcengine-skills",
-      "source": ".",
+      "source": "./",
       "description": "Unified volcengine content generation tools",
       "version": "1.0.0"
     }
