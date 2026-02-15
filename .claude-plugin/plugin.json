@@ -1,0 +1,29 @@
+{
+  "name": "volcengine",
+  "version": "1.0.0",
+  "description": "Unified Volcengine content generation suite",
+  "author": {
+    "name": "Aeromechanic",
+    "url": "https://aeromechanic.fun/"
+  },
+  "mcpServers": {
+    "volc-img": {
+      "command": "npx",
+      "args": ["-y", "@aeromechanic/volcengine-image-mcp"],
+      "env": {
+        "DOUBAO_API_KEY": "YOUR_API_KEY_HERE"
+      }
+    },
+    "volc-vid": {
+      "command": "npx",
+      "args": ["-y", "@aeromechanic/volcengine-video-mcp"],
+      "env": {
+        "DOUBAO_API_KEY": "YOUR_API_KEY_HERE"
+      }
+    }
+  },
+  "skills": [
+    "./skills/image-gen",
+    "./skills/video-gen"
+  ]
+}
