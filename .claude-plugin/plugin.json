@@ -1,7 +1,7 @@
 {
-  "name": "volcengine-skills"
+  "name": "volcengine-skills",
   "version": "1.0.0",
-  "description": "Unified Volcengine content generation suite",
+  "description": "Unified Volcengine Image and Video generation tools",
   "author": {
     "name": "Aeromechanic",
     "url": "https://aeromechanic.fun/"
@@ -23,7 +23,7 @@
     }
   },
   "skills": [
-    "./skills/image-gen",
-    "./skills/video-gen"
+    "skills/image-gen",
+    "skills/video-gen"
   ]
 }
