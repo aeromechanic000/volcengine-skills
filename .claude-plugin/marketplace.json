@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "volcengine-skills",
+      "name": "aeromechanic",
       "source": "./",
       "description": "Unified volcengine content generation tools",
       "version": "1.0.0"
