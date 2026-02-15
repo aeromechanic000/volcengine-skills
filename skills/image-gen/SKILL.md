@@ -1,5 +1,5 @@
 ---
-name: volc-image-studio
+name: volc-image-skill
 description: Generate and edit high-quality images using Volcengine Doubao models.
 ---
 
