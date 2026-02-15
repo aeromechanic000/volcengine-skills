@@ -1,10 +1,15 @@
 {
   "name": "volcengine-market",
+  "owner": {
+    "name": "Aeromechanic",
+    "url": "https://aeromechanic.fun/"
+  },
   "plugins": [
     {
       "name": "volcengine-skills",
       "source": ".",
-      "description": "Unified volcengine content generation tools"
+      "description": "Unified volcengine content generation tools",
+      "version": "1.0.0"
     }
   ]
 }
