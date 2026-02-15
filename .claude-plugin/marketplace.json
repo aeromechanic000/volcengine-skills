@@ -1,0 +1,11 @@
+// .claude-plugin/marketplace.json
+{
+  "name": "volcengine-market",
+  "plugins": [
+    {
+      "name": "volcengine-skills",
+      "source": ".",
+      "description": "Unified volcengine content generation tools"
+    }
+  ]
+}
